@@ -91,6 +91,7 @@ export const SERVICES: Service[] = [
     description: 'From design to full installation, we create beautiful, functional bathrooms.',
     icon: 'Bath',
     image: 'https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=800&q=80&auto=format'
+  },
   {
     id: 'plumbing',
     title: 'Minor Plumbing Works',
