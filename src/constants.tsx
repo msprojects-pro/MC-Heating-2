@@ -97,7 +97,7 @@ export const SERVICES: Service[] = [
     description: 'Leaks, taps, toilets, and all small plumbing repairs handled professionally.',
     icon: 'Wrench',
     image: 'https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=800&q=80&auto=format'
-  }
+  },
 ];
 
 export const REVIEWS: Review[] = [
