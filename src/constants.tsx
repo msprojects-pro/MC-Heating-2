@@ -62,7 +62,7 @@ export const SERVICES: Service[] = [
     title: 'Boiler Installation',
     description: 'Expert installation of modern, energy-efficient boilers with full warranties.',
     icon: 'Flame',
-    image: 'https://images.unsplash.com/photo-1581094751156-35342eabb8cd?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?w=800&q=80&auto=format'
   },
   {
     id: 'boiler-service',
@@ -76,28 +76,27 @@ export const SERVICES: Service[] = [
     title: 'Central Heating Systems',
     description: 'Full design and installation of complete central heating systems tailored to your home.',
     icon: 'Flame',
-    image: 'https://images.unsplash.com/photo-1574360523441-df071650346c?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80&auto=format'
   },
   {
     id: 'emergency',
     title: 'Boiler & Heating Repairs',
     description: 'Expert diagnostics and repairs for boiler failures and heating system issues.',
     icon: 'ShieldAlert',
-    image: 'https://images.unsplash.com/photo-1504148455328-c376907d081c?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.pexels.com/photos/7859953/pexels-photo-7859953.jpeg?auto=compress&cs=tinysrgb&w=800'
   },
   {
     id: 'bathroom',
     title: 'Bathroom Refurbishment',
     description: 'From design to full installation, we create beautiful, functional bathrooms.',
     icon: 'Bath',
-    image: 'https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?auto=format&fit=crop&q=80&w=800'
-  },
+    image: 'https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=800&q=80&auto=format'
   {
     id: 'plumbing',
     title: 'Minor Plumbing Works',
     description: 'Leaks, taps, toilets, and all small plumbing repairs handled professionally.',
     icon: 'Wrench',
-    image: 'https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=800&q=80&auto=format'
   }
 ];
 
@@ -135,7 +134,7 @@ export const REVIEWS: Review[] = [
 export const GALLERY: GalleryItem[] = [
   {
     id: 'g1',
-    url: 'https://images.unsplash.com/photo-1621905251918-48416bd8575a?auto=format&fit=crop&q=80&w=800',
+    url: 'https://res.cloudinary.com/dn5dfwdzd/image/upload/w_800,h_600,c_fill,q_80,f_auto/v1778344856/20260509_135347_0000_hfqh8a.png',
     title: 'New Boiler Installation',
     category: 'boiler'
   },
@@ -147,13 +146,13 @@ export const GALLERY: GalleryItem[] = [
   },
   {
     id: 'g3',
-    url: 'https://images.unsplash.com/photo-1574360523441-df071650346c?auto=format&fit=crop&q=80&w=800',
+    url: 'https://res.cloudinary.com/dn5dfwdzd/image/upload/w_800,h_600,c_fill,q_80,f_auto/v1778344854/20260509_134620_0000_hktlfn.png',
     title: 'Underfloor Heating Setup',
     category: 'heating'
   },
   {
     id: 'g4',
-    url: 'https://images.unsplash.com/photo-1504148455328-c376907d081c?auto=format&fit=crop&q=80&w=800',
+    url: 'https://res.cloudinary.com/dn5dfwdzd/image/upload/w_800,h_600,c_fill,q_80,f_auto/v1778344850/20260509_135134_0000_prbvrg.png',
     title: 'Copper Pipework',
     category: 'plumbing'
   }
