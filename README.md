@@ -1,13 +1,16 @@
-# MC Heating & Plumbing - React Website
+Mc Heating & Plumbing Services | Professional Service & Repair
 
-A premium, high-performance website built with React 18, Vite, TypeScript, Tailwind CSS, and Framer Motion.
+Welcome to the official repository for Mc Heating & Plumbing. This project is a premium service-industry website designed to project reliability, technical expertise and for residential and commercial plumbing needs.
 
-## Features
-- **Modern Dark UI**: High-end look with fiery orange gradients and glow effects.
-- **Fully Responsive**: Optimized for mobile, tablet, and desktop.
-- **Animations**: Smooth scroll reveals and micro-interactions using Framer Motion.
-- **SEO Ready**: Configured with `react-helmet-async` for meta tags and Open Graph.
-- **Type-Safe**: Built with TypeScript and Zod for form validation.
-- **Contact Form**: Ready for integration with Formspree or Web3Forms.
+✨ Key Features
+Service-Oriented Architecture: Clear, intuitive layout focused on high-conversion service categories.
+Modern Industrial Aesthetic: A clean, professional look to build brand trust.
+Fully Responsive: Optimized for mobile users—crucial for customers seeking emergency plumbing services.
+High Performance: Built with Vite for rapid load times, ensuring users find help without delay.
+
+## 🚀 Live Demo
+View the live site here: [URL here]
 
 
+Designed & Developed by Muhammad Sufyan
+Digital Strategist & Web Designer
