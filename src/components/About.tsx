@@ -31,7 +31,7 @@ export function About() {
               transition={{ delay: 0.3 }}
               className="absolute -bottom-8 -right-8 glass p-6 rounded-2xl glow-border"
             >
-              <div className="text-4xl font-display font-extrabold text-primary mb-1">32+</div>
+              <div className="text-4xl font-display font-extrabold text-primary mb-1">37+</div>
               <div className="text-xs uppercase tracking-widest font-bold text-white/70">Years Experience</div>
             </motion.div>
           </motion.div>
@@ -52,7 +52,7 @@ export function About() {
                 Established in 2021 by owner <span className="text-white font-bold">Mitch</span>, MC Heating & Plumbing was built on a foundation of over three decades of engineering excellence.
               </p>
               <p>
-                As an <span className="text-white font-bold italic">Ex-British Gas Engineer</span> with 32 years of experience, Mitch brings a level of technical expertise and safety standard that is second to none in the industry.
+                As an <span className="text-white font-bold italic">Ex-British Gas Engineer</span> with 37 years of experience, Mitch brings a level of technical expertise and safety standard that is second to none in the industry.
               </p>
               <p>
                 Based in <span className="text-white font-bold">Bartley Green</span>, we proudly serve the Birmingham area, offering everything from minor plumbing repairs to complex boiler installations and emergency breakdowns.
