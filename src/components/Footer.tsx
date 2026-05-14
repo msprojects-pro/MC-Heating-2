@@ -16,7 +16,7 @@ export function Footer() {
           <div className="space-y-6">
             <Logo />
             <p className="text-white/40 text-sm leading-relaxed max-w-xs">
-              Premium heating and plumbing services in Birmingham. 31 years of experience, ex-British Gas quality at local prices.
+              Premium heating and plumbing services in Birmingham. 37 years of experience, ex-British Gas quality at local prices.
             </p>
             <div className="flex items-center gap-3">
               {SOCIAL_LINKS.map((social) => (
