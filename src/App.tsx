@@ -22,9 +22,9 @@ export default function App() {
       <div className="min-h-screen bg-dark selection:bg-primary selection:text-dark">
         <Helmet>
           <title>{BUSINESS_INFO.name} | Expert Plumber in Birmingham</title>
-          <meta name="description" content={`Professional heating and plumbing services in Birmingham by Mitch (Ex-British Gas). 31 years of experience in boiler installations, repairs, and bathroom fitting.`} />
+          <meta name="description" content={`Professional heating and plumbing services in Birmingham by Mitch (Ex-British Gas). 32 years of experience in boiler installations, repairs, and bathroom fitting.`} />
           <meta property="og:title" content={`${BUSINESS_INFO.name} | Professional Heating & Plumbing`} />
-          <meta property="og:description" content="31 Years Experience. Ex-British Gas. Reliable local Birmingham plumber for boilers, heating, and maintenance." />
+          <meta property="og:description" content="32 Years Experience. Ex-British Gas. Reliable local Birmingham plumber for boilers, heating, and maintenance." />
           <meta property="og:type" content="website" />
           <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
         </Helmet>
