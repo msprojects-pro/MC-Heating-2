@@ -99,7 +99,7 @@ export function Hero() {
                 <Award className="w-6 h-6 text-primary" />
               </div>
               <div>
-                <p className="text-base font-bold text-white leading-none">31 Years</p>
+                <p className="text-base font-bold text-white leading-none">32 Years</p>
                 <p className="text-xs text-white/50 uppercase tracking-wider mt-1">Experience</p>
               </div>
             </div>
